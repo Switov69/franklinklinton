@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'Gilroy-Heavy';
+   font-display: swap;
+   src: url('Gilroy-Heavy/font.ttf');
+}
+@font-face {
+   font-family: 'Gilroy-Black';
+   font-display: swap;
+   src: url('Gilroy-Black/font.ttf');
+}
+@font-face {
+   font-family: 'Gilroy-Bold';
+   font-display: swap;
+   src: url('Gilroy-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Gilroy-SemiBold';
+   font-display: swap;
+   src: url('Gilroy-SemiBold/font.ttf');
+}
